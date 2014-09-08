@@ -2,6 +2,7 @@
 
 namespace blinkmobile;
 
-class IsUaGzipCapable {
-    
+class IsUaGzipCapable
+{
+
 }
