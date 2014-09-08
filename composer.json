@@ -1,6 +1,7 @@
 {
   "name": "blinkmobile/is-ua-gzip-capable",
   "description": "(Hopefully) small algorithm to determine whether or not to GZIP an HTTP response",
+  "version": "1.0.0",
   "license": "BSD-3-Clause",
   "authors": [
     {
