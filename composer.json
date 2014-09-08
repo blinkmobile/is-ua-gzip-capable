@@ -1,0 +1,24 @@
+{
+  "name": "blinkmobile/is-ua-gzip-capable",
+  "description": "(Hopefully) small algorithm to determine whether or not to GZIP an HTTP response",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Ron Waldon",
+      "email": "jokeyrhyme@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.2.*"
+  },
+  "autoload": {
+    "psr-4": { "": "php/" }
+  },
+  "autoload-dev": {
+    "psr-4": { "": "tests/php/" }
+  },
+  "scripts": {
+    "test": "vendor/phpunit/phpunit/phpunit tests/php"
+  }
+}
